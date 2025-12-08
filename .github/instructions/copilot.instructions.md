@@ -1,3 +1,7 @@
+---
+applyTo: "**"
+---
+
 # Global Copilot Instructions for PHP/Laravel/PhpStorm
 
 這些指令協助 Copilot 生成符合 Laravel 9/11/12 標準、善用 PHP 8.2/8.4 新特性的現代化程式碼，並依循軟體工程原則及業界最佳實踐，以提升軟體品質、可維護性與安全性。
